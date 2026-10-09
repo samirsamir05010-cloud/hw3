@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: #eee;
+    background-color: #222;
+    margin-top: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: .6s;
+}
+
+h1:hover{
+    color: #222;
+    background-color: #eee;
+}
